@@ -11,7 +11,7 @@
 - 🎓 I completed my 12th in 2022 with 74.48% at New Education High School Petlad.
 - 🌱 Always learning something new — whether it's AI, automation, or a new tech stack.
 
-## 📫 How to reach me:
+## 📫 Find Me at:
 
 - ✉️ Email: vairagirana@gmail.com  
 - 🔗 www.linkedin.com/in/vairagi-rana 
