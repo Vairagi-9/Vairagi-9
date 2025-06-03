@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Vairagi Rana!
 
-🎯 Passionate about building tech that solves real-world problems.  
+🎯 Curious about building tech that solves real-world problems.  
 🛠️ Currently exploring voice recognition and open-source personal assistant projects and Online Learning Management System .  
 📍 From Petlad , Gujarat, India.
 
@@ -14,7 +14,19 @@
 ## 📫 Find Me at:
 
 - ✉️ Email: vairagirana@gmail.com  
-- 🔗 www.linkedin.com/in/vairagi-rana 
+- 🔗 www.linkedin.com/in/vairagi-rana
+
+## Tech Skills 
+-C/C++ 
+-JAVA
+-HTML , CSS 
+-Javascript
+-AngularJS
+-NodeJS
+-Mongodb 
+-MySQL
+-ReactJS
+-Python
 
 ## ❤️ Fun Facts
 
