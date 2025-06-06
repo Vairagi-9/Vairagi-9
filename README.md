@@ -7,7 +7,6 @@
 ## 👨‍💻 About Me
 
 - 💡 I'm a tech enthusiast with a curious mind and a strong will to learn.
-- 🗣️ Currently Completed the **AURA** — an open-source voice recognition system with my amazing teammates [Prarthna Tiwari](#) and [Vaibhavi Patel](#).
 - 🎓 I completed my 12th in 2022 with 74.48% at New Education High School Petlad.
 - 🌱 Always learning something new — whether it's AI, automation, or a new tech stack.
 
@@ -16,17 +15,7 @@
 - ✉️ Email: vairagirana@gmail.com  
 - 🔗 www.linkedin.com/in/vairagi-rana
 
-## Tech Skills 
--C/C++ 
--JAVA
--HTML , CSS 
--Javascript
--AngularJS
--NodeJS
--Mongodb 
--MySQL
--ReactJS
--Python
+
 
 ## ❤️ Fun Facts
 
