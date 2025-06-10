@@ -1,7 +1,6 @@
 # 👋 Hi there, I'm Vairagi Rana!
 
-🎯 Curious about building tech that solves real-world problems.  
-🛠️ Currently exploring voice recognition and open-source personal assistant projects and Online Learning Management System .  
+🎯 Curious about building tech that solves real-world problems.   
 📍 From Petlad , Gujarat, India.
 
 ## 👨‍💻 About Me
