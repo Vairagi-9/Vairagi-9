@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Vairagi Rana!
 
 🎯 Curious about building tech that solves real-world problems.   
-📍 From Petlad , Gujarat, India.
+📍 From Ananad , Gujarat, India.
 
 ## 👨‍💻 About Me
 
